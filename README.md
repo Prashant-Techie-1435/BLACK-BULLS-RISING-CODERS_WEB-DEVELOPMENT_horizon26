@@ -4,14 +4,14 @@
 
 ## Horizon 1.0 Hackathon Project
 
-OpsPulse — Real-Time Business Intelligence Dashboard
+OpsPulse — Real-Time Business Intelligence Dashboard:
 
 OpsPulse is a web-based real-time business intelligence dashboard designed to help businesses monitor operational metrics such as sales, inventory, and customer support activity from a single interface.
 The system simulates real-time operational events and visualizes them through interactive dashboards, alerts, and analytics charts.
 
 The project demonstrates how operational data can be streamed, processed, and visualized to help business owners detect risks early and make better decisions.
 
-Live Demo
+Live Demo:
 
 The project is deployed online.
 
@@ -20,7 +20,7 @@ https://opspulse-eu0e.onrender.com
 
 You can access the deployed version directly using the link above.
 
-Features
+Features:
 
 Real-time operational dashboard
 
@@ -42,8 +42,8 @@ Role-based dashboard views
 
 Responsive UI
 
-Tech Stack
-Frontend
+Tech Stack:
+Frontend:
 
 HTML5 – Structure of web pages
 
@@ -51,15 +51,15 @@ CSS3 – Styling and layout
 
 JavaScript (ES6) – Application logic and dynamic updates
 
-Visualization
+Visualization:
 
 Chart.js – Interactive data visualization and analytics charts
 
-Deployment
+Deployment:
 
 Render – Hosting and deployment platform
 
-Development Tools
+Development Tools:
 
 Git – Version control
 
@@ -67,7 +67,7 @@ GitHub – Repository management
 
 VS Code – Development environment
 
-System Architecture
+System Architecture:
 
 The system follows a layered web application architecture consisting of four main layers.
 
@@ -157,7 +157,7 @@ WebSocket real-time streaming
 
 Database integration
 
-Architecture Flow
+Architecture Flow:
 
 User
 ↓
@@ -175,7 +175,7 @@ State Update
 ↓
 Charts, KPIs, Alerts Updated on Dashboard
 
-Data Pipeline
+Data Pipeline:
 
 OpsPulse processes operational data using an event-driven data pipeline.
 
@@ -241,7 +241,7 @@ Business stress score
 
 This creates a real-time operational monitoring system.
 
-Business Stress Score
+Business Stress Score:
 
 The Business Stress Score measures the operational health of the business.
 
@@ -268,7 +268,7 @@ Score Range:
 41 – 70 → Moderate Risk
 71 – 100 → High Risk
 
-Alert Detection System
+Alert Detection System:
 
 The alert engine automatically detects operational anomalies.
 
@@ -290,7 +290,7 @@ Anomaly Alerts
 
 These alerts are displayed in the Alert Feed section of the dashboard.
 
-Future Improvements
+Future Improvements:
 
 Possible enhancements:
 
